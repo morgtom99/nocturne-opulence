@@ -1,0 +1,61 @@
+{
+  "title": "Nocturne Opulence",
+  "description": "An abstract, darkly opulent aesthetic featuring maximal complexity, intricate rococo embellishments, and ethereal gothic detailing reminiscent of Takato Yamamoto's haunting elegance.",
+  "seedPalette": [
+    "#B00021",
+    "#782F8E",
+    "#A0522D",
+    "#2B576C",
+    "#8A4F7D",
+    "#4A4E69",
+    "#738F9B"
+  ],
+  "colorConcepts": [
+    [
+      "blood",
+      "velvet",
+      "rose"
+    ],
+    [
+      "damask",
+      "potion",
+      "regal"
+    ],
+    [
+      "ornament",
+      "patina",
+      "decay"
+    ],
+    [
+      "night",
+      "shadow",
+      "crypt"
+    ],
+    [
+      "lace",
+      "flesh",
+      "perfume"
+    ],
+    [
+      "stone",
+      "tomb",
+      "mist"
+    ],
+    [
+      "moonlight",
+      "spirit",
+      "porcelain"
+    ]
+  ],
+  "primary": "hsl(287 45% 40%)",
+  "background": "hsl(220 12% 8%)",
+  "accent": "hsl(260 10% 12%)",
+  "imageStyle": {
+    "complexity": "maximal",
+    "style": "abstract",
+    "detail": "detailed"
+  },
+  "id": "theme-nocturne-opulence",
+  "repository": "nocturne-opulence",
+  "owner": "morgtom99"
+}
