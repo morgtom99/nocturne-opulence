@@ -53,7 +53,9 @@
   "imageStyle": {
     "complexity": "maximal",
     "style": "illustrated",
-    "detail": "detailed"
+    "detail": "detailed",
+    "dimension": "flat",
+    "lighting": "dramatic"
   },
   "id": "theme-nocturne-opulence",
   "repository": "nocturne-opulence",
