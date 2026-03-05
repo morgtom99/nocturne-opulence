@@ -52,10 +52,11 @@
   "accent": "hsl(260 10% 12%)",
   "imageStyle": {
     "complexity": "maximal",
-    "style": "abstract",
+    "style": "illustrated",
     "detail": "detailed"
   },
   "id": "theme-nocturne-opulence",
   "repository": "nocturne-opulence",
-  "owner": "morgtom99"
+  "owner": "morgtom99",
+  "branch": "main"
 }
