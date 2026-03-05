@@ -55,10 +55,20 @@
     "style": "illustrated",
     "detail": "detailed",
     "dimension": "flat",
-    "lighting": "dramatic"
+    "lighting": "dramatic",
+    "texture": "none"
   },
   "id": "theme-nocturne-opulence",
   "repository": "nocturne-opulence",
   "owner": "morgtom99",
-  "branch": "main"
+  "branch": "main",
+  "colorDescriptions": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
 }
